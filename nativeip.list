@@ -1,36 +1,19 @@
-# native ip
-
 # openai
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,featuregates.org
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,stripe
+DOMAIN-KEYWORD,paypal
+DOMAIN-KEYWORD,ultramobile
 
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 
-# stripe
-DOMAIN-KEYWORD,stripe
 
-# sentry
-DOMAIN-SUFFIX,sentry.io
-
-# paypal
-DOMAIN-KEYWORD,paypal
-
-# onekey
-DOMAIN-KEYWORD,onekey
-
-
-# ultramobile
-DOMAIN-KEYWORD,ultramobile
-
-# other
-DOMAIN-SUFFIX,report-uri.com
-DOMAIN-SUFFIX,bugsnag.com
-DOMAIN-SUFFIX,ipqscdn.com
-DOMAIN-SUFFIX,onetrust.com
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,zdassets.com
-DOMAIN-SUFFIX,zendesk.com
-DOMAIN-SUFFIX,zopim.com
